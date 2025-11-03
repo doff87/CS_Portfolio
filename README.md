@@ -2,11 +2,17 @@
 
 
 
-Welcome to my portfolio!  
+Welcome to my portfolio!
 
-I’m a Computer Science student and U.S. Army veteran pursuing a transition into software engineering and IT.  
+
+
+I am a Computer Science student and U.S. Army veteran pursuing a transition into software engineering and IT.  
 
 This repository highlights selected projects demonstrating programming, networking, and problem-solving skills across multiple languages and technologies.
+
+
+
+---
 
 
 
@@ -20,7 +26,13 @@ A console-based Java program that helps students practice arithmetic operations 
 
 
 
+---
+
+
+
 \## Skills Demonstrated
+
+
 
 \- Java, Python, C#
 
@@ -32,7 +44,13 @@ A console-based Java program that helps students practice arithmetic operations 
 
 
 
+---
+
+
+
 \## About Me
+
+
 
 \- Computer Science B.S. Candidate — Lake Washington Institute of Technology (Expected 2027)  
 
@@ -40,5 +58,7 @@ A console-based Java program that helps students practice arithmetic operations 
 
 \- Certified: CompTIA Network+ | AWS Cloud Practitioner  
 
-\- Based in Redmond, WA
+\- Based in Redmond, WA  
+
+\- \[LinkedIn: linkedin.com/in/d-offutt](https://www.linkedin.com/in/d-offutt/)
 
