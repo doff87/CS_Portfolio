@@ -1,0 +1,3 @@
+[submodule "MathTutor_Java"]
+	path = MathTutor_Java
+	url = https://github.com/doff87/MathTutor_Java.git
