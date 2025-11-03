@@ -9,7 +9,7 @@ This repository highlights selected projects demonstrating programming, networki
 
 ## Projects Overview
 
-### [MathTutor_Java](MathTutor_Java/)
+### [MathTutor_Java](https://github.com/doff87/MathTutor_Java)
 A console-based Java program that helps students practice arithmetic operations with configurable difficulty and test mode.
 
 ---
