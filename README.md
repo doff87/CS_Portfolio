@@ -12,6 +12,9 @@ This repository highlights selected projects demonstrating programming, networki
 ### [MathTutor_Java](https://github.com/doff87/MathTutor_Java)
 A console-based Java program that helps students practice arithmetic operations with configurable difficulty and test mode.
 
+### [Offutt_Playable_Zombie_Game](https://github.com/doff87/Zombie_Unity_Game)
+A simple Unity-based zombie survival prototype showcasing player movement, enemy AI, and a basic HUD system.  
+Built in C# with Unity’s physics and prefab systems to demonstrate game logic, design structure, and interactive UI fundamentals.
 ---
 
 ## Skills Demonstrated

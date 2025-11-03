@@ -1,3 +1,6 @@
 [submodule "MathTutor_Java"]
 	path = MathTutor_Java
 	url = https://github.com/doff87/MathTutor_Java.git
+[submodule "Zombie_Unity_Game"]
+	path = Zombie_Unity_Game
+	url = https://github.com/doff87/Zombie_Unity_Game
