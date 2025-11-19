@@ -20,6 +20,10 @@ A console-based Java program that helps students practice arithmetic operations 
 A simple Unity-based zombie survival prototype showcasing player movement, enemy AI, and a basic HUD system.  
 Built in C# with Unity’s physics and prefab systems to demonstrate game logic, design structure, and interactive UI fundamentals.
 
+### [FullStack_Node_Postgres_App](https://github.com/doff87/FullStack_Node_Postgres_App)
+A full-stack web application built with Node.js, Express, and PostgreSQL using Sequelize ORM.  
+Includes REST API endpoints, HTML interfaces for managing game data, and a fully deployed cloud version using AWS EC2 and RDS.
+
 ---
 
 ## Skills Demonstrated
