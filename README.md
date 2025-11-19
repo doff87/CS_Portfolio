@@ -56,14 +56,22 @@ A live demo is available at: http://3.139.71.91:5000/index.html
 
 **Preview Images:**
 
-Players View:
-![Players](https://raw.githubusercontent.com/doff87/FullStack_Node_Postgres_App/main/images/players_image.png)  
-
-Enemies View:
-![Enemies](https://raw.githubusercontent.com/doff87/FullStack_Node_Postgres_App/main/images/enemies_image.png)  
-
-Game Items View:
-![Items](https://raw.githubusercontent.com/doff87/FullStack_Node_Postgres_App/main/images/game_items_image.png)  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/doff87/FullStack_Node_Postgres_App/main/images/players_image.png" width="300"><br>
+      <b>Players View</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/doff87/FullStack_Node_Postgres_App/main/images/enemies_image.png" width="300"><br>
+      <b>Enemies View</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/doff87/FullStack_Node_Postgres_App/main/images/game_items_image.png" width="300"><br>
+      <b>Game Items View</b>
+    </td>
+  </tr>
+</table>
 
 
 ---
