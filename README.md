@@ -49,4 +49,4 @@ Includes REST API endpoints, HTML interfaces for managing game data, and a fully
 
 ## Resume
 You can download my resume here:
-[Download Resume (PDF)](./resume.pdf)
+[Download Resume (PDF)](./Offutt_Resume.pdf)
