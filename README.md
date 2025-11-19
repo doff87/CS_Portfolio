@@ -17,10 +17,11 @@ Outside of academics, I stay busy with writing, gaming, travel, DIY coding proje
 ## Projects Overview
 
 ### MathTutor — Java Console Application  
-A menu-driven Java program that generates arithmetic practice problems and includes a full test mode with automatic scoring. Difficulty ranges are configurable, and the program handles invalid input gracefully with clear user feedback.
 
-**Technologies Used:** Java • Scanner I/O • Control Flow • Random Problem Generation  
-**Role:** Developed all program logic, including the menu interface, problem generators, test mode, input validation, and settings system.
+A console-based Java program designed to help students practice arithmetic skills with adjustable difficulty ranges, randomized question generation, and a full test mode that scores performance. The program includes menu navigation, input validation, and a settings system.  
+
+Technologies Used: Java (console), Random number generation, Input validation, Control flow  
+Role: Designed and implemented the full application, including menu logic, randomized problem generation, validation handling, and test-mode scoring.  
 
 **GitHub Repo:** https://github.com/doff87/MathTutor_Java  
 
@@ -30,25 +31,26 @@ A menu-driven Java program that generates arithmetic practice problems and inclu
 
 ### Playable Zombie Game
 
-A first-person Unity survival prototype featuring shooting mechanics, animated zombie enemies, collision-based damage, and HUD feedback. Built to practice core Unity fundamentals, including prefabs, animation controllers, physics, and gameplay scripting.
+A first-person Unity survival prototype featuring shooting mechanics, animated zombie enemies, collision-based damage, and HUD feedback. Built to practice core Unity fundamentals, including prefabs, animation controllers, physics components, and gameplay scripting.  
 
-**Technologies Used:** Unity Engine • C# • Rigidbody/Collider physics • Animation Controllers • Prefabs  
-**Role:** Implemented all game logic, designed enemy behavior, built player interaction systems, and assembled the gameplay environment.  
+Technologies Used: Unity Engine, C#, Rigidbody/Collider physics, Animation Controllers, Prefabs  
+Role: Implemented all gameplay logic, built enemy behaviors, created the player system, imported assets, and constructed the scene environment.  
 
 **GitHub Repo:** https://github.com/doff87/Zombie_Unity_Game  
-**Downloadable Build:** Included in the repo as `Offutt_Playable_Zombie_Game.zip`
+**Downloadable Build:** Included in the repo as `Offutt_Playable_Zombie_Game.zip`  
 
 **Preview Image:**
 
 ![Zombie Game Preview](https://raw.githubusercontent.com/doff87/Zombie_Unity_Game/main/Images/zombie_game_preview.png)  
 
 ### FullStack Node + PostgreSQL App  
-A full-stack web application built using Node.js, Express, PostgreSQL, and Sequelize ORM.  
-Features include REST API endpoints, data validation, migrations, and clean HTML interfaces for managing game-related data (Players, Enemies, and Game Items).  
-Includes both local development and cloud deployment experience using AWS EC2 and AWS RDS (PostgreSQL).
 
-**Technologies Used:** Node.js, Express.js, PostgreSQL, Sequelize ORM, HTML/CSS, JavaScript  
-**Role:** Built the entire application end-to-end — database schema design, API routing, server logic, migrations, and the client-side HTML pages.  Also deployed the application to AWS EC2 and configured a remote PostgreSQL instance for persistent cloud storage.
+A full-stack web application built using Node.js, Express, PostgreSQL, and Sequelize ORM.  
+Includes RESTful API endpoints, schemas, migrations, and HTML views for interacting with a live game-style database (Players, Enemies, Game Items).  
+Features both local development and cloud deployment experience using AWS EC2 and PostgreSQL.  
+
+Technologies Used: Node.js • Express.js • PostgreSQL • Sequelize ORM • HTML/CSS • JavaScript  
+Role: Designed the database schema, built the full API, implemented all CRUD routes, created the HTML client pages, and deployed the system on AWS EC2 with a remote PostgreSQL instance.  
 
 **GitHub Repo:** https://github.com/doff87/FullStack_Node_Postgres_App  
 A live demo is available at: http://3.139.71.91:5000/index.html    
