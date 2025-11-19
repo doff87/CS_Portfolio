@@ -45,6 +45,8 @@ Includes REST API endpoints, HTML interfaces for managing game data, and a fully
 - [Github User Account](https://github.com/doff87/)
 - [LinkedIn Profile](https://www.linkedin.com/in/d-offutt/)
 
+---
+
 ## Resume
 You can download my resume here:
 [Download Resume (PDF)](./resume.pdf)
