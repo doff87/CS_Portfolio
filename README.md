@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile.png" alt="David Offutt" width="250" style="border-radius: 8px;">
+</p>
+
 # David Offutt — Computer Science Portfolio
 
 Welcome to my portfolio.
