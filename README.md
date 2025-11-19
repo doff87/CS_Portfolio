@@ -40,5 +40,11 @@ Includes REST API endpoints, HTML interfaces for managing game data, and a fully
 - Computer Science B.S. Student — Lake Washington Institute of Technology (Expected 2027)  
 - 15+ years of leadership experience as a U.S. Army officer  
 - Certified: CompTIA Network+ | AWS Cloud Practitioner  
-- Based in Redmond, WA  
+- Based in Redmond, WA
+- Email: david.offutt.do@gmail.com
+- [Github User Account](https://github.com/doff87/)
 - [LinkedIn Profile](https://www.linkedin.com/in/d-offutt/)
+
+## Resume
+You can download my resume here:
+[Download Resume (PDF)](./resume.pdf)
