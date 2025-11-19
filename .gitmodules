@@ -1,9 +1,12 @@
 [submodule "MathTutor_Java"]
 	path = MathTutor_Java
 	url = https://github.com/doff87/MathTutor_Java.git
+	branch = main
 [submodule "Zombie_Unity_Game"]
 	path = Zombie_Unity_Game
 	url = https://github.com/doff87/Zombie_Unity_Game
+	branch = main
 [submodule "FullStack_Node_Postgres_App"]
 	path = FullStack_Node_Postgres_App
 	url = https://github.com/doff87/FullStack_Node_Postgres_App.git
+	branch = main
