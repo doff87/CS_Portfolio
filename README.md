@@ -19,9 +19,17 @@ Outside of academics, I stay busy with writing, gaming, travel, DIY coding proje
 ### [MathTutor_Java](https://github.com/doff87/MathTutor_Java)
 A console-based Java program that helps students practice arithmetic operations with configurable difficulty and test mode.
 
-### [Offutt_Playable_Zombie_Game](https://github.com/doff87/Zombie_Unity_Game)
-A simple Unity-based zombie survival prototype showcasing player movement, enemy AI, and a basic HUD system.  
-Built in C# with Unity’s physics and prefab systems to demonstrate game logic, design structure, and interactive UI fundamentals.
+### Offutt Playable Zombie Game
+
+![Zombie Game Preview](https://raw.githubusercontent.com/doff87/Zombie_Unity_Game/main/Images/zombie_game_preview.png)
+
+A first-person Unity survival prototype featuring shooting mechanics, animated zombie enemies, collision-based damage, and HUD feedback. Built to practice core Unity fundamentals, including prefabs, animation controllers, physics, and gameplay scripting.
+
+**Technologies Used:** Unity Engine • C# • Rigidbody/Collider physics • Animation Controllers • Prefabs  
+**Role:** Implemented all game logic, designed enemy behavior, built player interaction systems, and assembled the gameplay environment.
+
+**GitHub Repo:** https://github.com/doff87/Zombie_Unity_Game  
+**Downloadable Build:** Included in the repo as `Offutt_Playable_Zombie_Game.zip`
 
 ### [FullStack_Node_Postgres_App](https://github.com/doff87/FullStack_Node_Postgres_App)
 A full-stack web application built with Node.js, Express, and PostgreSQL using Sequelize ORM.  
