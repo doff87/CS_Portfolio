@@ -6,11 +6,12 @@
 
 I'm David, a Computer Science student at Lake Washington Institute of Technology with a strong interest in cybersecurity and secure system design. My exposure to CS actually started years ago at West Point, where programming and engineering fundamentals were part of the core curriculum. I wasn’t able to pursue the field at the time due to the demands of military service, but the interest never really went away. After leaving the Army, I finally had the chance to focus on CS and commit to it as a career.
 
-I bring more than fifteen years of leadership experience as an Army officer, and that background shapes how I approach technical work. The military drilled into me the importance of integrity, clear communication, teamwork, and staying focused on the mission — values that carry over naturally into software development and cybersecurity. I’m also getting hands-on technical experience through my work with the IT department at LWIT, where I support users, troubleshoot systems, and gain a practical understanding of networks, access control, and operational security.
+I bring more than fifteen years of leadership experience as an Army officer, and that background shapes how I approach technical work. The military drilled into me the importance of integrity, clear communication, teamwork, and staying focused on the mission - values that carry over naturally into software development and cybersecurity. I’m also getting hands-on technical experience through my work with the IT department at LWIT, where I support users, troubleshoot systems, and gain a practical understanding of networks, access control, and operational security.
 
 My professional interests include cybersecurity, software application development, full-stack web development, game design, and experimenting with AI tools and workflows. I enjoy projects that require both problem-solving and clear structure, and I’m steadily building the skills to contribute to real-world engineering environments.
 
 Outside of academics, I stay busy with writing, gaming, travel, DIY coding projects, and finding ways to stay involved in the community. Long-term, I aim to build a career where I can combine my technical training with the discipline and leadership experience I developed in the Army.
+
 ---
 
 ## Projects Overview
@@ -37,11 +38,8 @@ Includes REST API endpoints, HTML interfaces for managing game data, and a fully
 
 ---
 
-## About Me
+## Contact
 
-- Computer Science B.S. Student — Lake Washington Institute of Technology (Expected 2027)  
-- 15+ years of leadership experience as a U.S. Army officer  
-- Certified: CompTIA Network+ | AWS Cloud Practitioner  
 - Based in Redmond, WA
 - Email: david.offutt.do@gmail.com
 - [Github User Account](https://github.com/doff87/)
@@ -51,4 +49,14 @@ Includes REST API endpoints, HTML interfaces for managing game data, and a fully
 
 ## Resume
 You can download my resume here:
-[Download Resume (PDF)](./Offutt_Resume.pdf)
+[Download Resume (PDF)](./Offutt_Resume.pdf)  
+
+- Computer Science B.S. Student: Lake Washington Institute of Technology (Expected 2027)  
+- 15+ years of leadership experience as a U.S. Army officer  
+- Certified: CompTIA Network+ | AWS Cloud Practitioner  
+
+---
+
+I approach my work with the same discipline and teamwork I learned in the Army. If any of my projects resonate with you — or if you're looking for someone driven, reliable, and always learning — I’d be glad to connect.  
+
+---
