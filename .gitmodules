@@ -4,3 +4,6 @@
 [submodule "Zombie_Unity_Game"]
 	path = Zombie_Unity_Game
 	url = https://github.com/doff87/Zombie_Unity_Game
+[submodule "FullStack_Node_Postgres_App"]
+	path = FullStack_Node_Postgres_App
+	url = https://github.com/doff87/FullStack_Node_Postgres_App.git
